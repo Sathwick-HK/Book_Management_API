@@ -25,7 +25,7 @@ cd book-management-api
 npm install
 Use code with caution. Learn more
 
-Start the server:
+**Start the server:**
 
 Using nodemon: npx nodemon index.js
 Without nodemon: node index.js
