@@ -12,7 +12,7 @@
 
 //Array operators
 //$push
-//name = ["aradhana", "xyzzz"]
+//name = ["sathwick", "xyzzz"]
 //$pop
 //used to extract/remove/delete the last element
 //$pull
