@@ -15,37 +15,37 @@
 
 //1. BOOKS
 //We need an API :-
-//To get all the books - DONE
-//To get specific book - DONE
-//To get a list of books based on category - DONE
-//To get a list of books based on languages - UR TASK
+//To get all the books 
+//To get specific book 
+//To get a list of books based on category
+//To get a list of books based on languages
 
 //2. AUTHORS
 //We need an API :-
-//To get all the authors - DONE
-//To get a specific author based on id- YOUR  TASK
-//To get a list of authors based on books - DONE
+//To get all the authors
+//To get a specific author based on id
+//To get a list of authors based on books
 
 //3. PUBLICATIONS
 //We need an API :-
 //To get all the publications
-//To get a specific publication - YOUR  TASK
-//To get a list of publications based on a book - YOUR TASK
+//To get a specific publication
+//To get a list of publications based on a book
 
 
 
 //POST REQUEST
-//1. ADD NEW BOOK - DONE
-//2.ADD NEW PUBLICATION -
+//1. ADD NEW BOOK
+//2.ADD NEW PUBLICATION
 //3.ADD NEW AUTHOR
 
 /**********PUT***********/
-//Update book details if author is changed. - DONE
+//Update book details if author is changed.
 
 /*****DELETE****/
-//1. Delete a book - DONE
-//2. Delete author from book - UR TASK
-//3. Delete author from book and related book from author -
+//1. Delete a book
+//2. Delete author from book
+//3. Delete author from book and related book from author
 
 //Schema - Blueprint of how data has to be constructed
 //MongoDB is schemaless
